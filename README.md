@@ -15,7 +15,7 @@
 کاربران می توانند به صورت رایگان با یک حساب ترون ، یک رشته 34 حرف و شماره ثبت نام کنند. متفاوت از نام حساب های سفارشی شده برای EOS و IOST ، Tron یک حساب کاربری تصادفی برای کاربران ایجاد می کند.
 هنگام ایجاد یک حساب کاربری ، کاربران فقط باید نام کیف پول و رمز ورود به سیستم را تنظیم کرده و کلید خصوصی را بنویسند. به همین سادگی.قبل از استفاده باید یک حساب کاربری جدید فعال شود. برای فعال کردن یک حساب کاربری جدید ، مالک باید مقداری از TRX را به آن منتقل کند
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/01.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-01.png '钱包类别')
 
 <center>TokenPocket صفحه ایجاد کیف پول ترون در</center>
 
@@ -23,7 +23,7 @@
 
 <p> اگر کاربر قبلاً یک کیف پول TRON داشته باشد ، می تواند یکی از موارد جدید را از طریق "وارد کردن کلید خصوصی" در کیف پول TP اضافه کند. کیف پول را می توان از طریق وارد کردن کلید خصوصی یا اسکن کد QR اضافه کرد.</p>
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/02.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-02.png '钱包类别')
 
 ### فریز و آنفریز نقاط پهنای باند و انرژی
 
@@ -39,7 +39,7 @@ Energy is the resource consumed by TRON Network’s CPU. Like bandwidth, it can 
 
 BP و Energy را می توان از طریق فریز TRX به دست آورد و می توان آنها را به آدرسهای دیگر نیز واگذار کرد. در این شرایط ، حساب نماینده صاحب TRX فریز و آراء مربوطه است در حالی که حساب واگذار شده دارای منابع به دست آمده است. مانند شکل معمول فریز ، منابع واگذار شده به مدت سه روز فریز می شوند.
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/03.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-03.png '钱包类别')
 
 **TRON Unfreezing**
 
@@ -72,13 +72,13 @@ TRX را می توان برای رأی دادن ، استقرار قرارداد
 
 Flash Swap کاربران را قادر می سازد تا توکن های دیگری را برای TRX مبادله کنند. برخلاف مدل سفارش که در بیشتر صرافی ها به تصویب رسیده ، Flash Swap از یک مدل ‘bank استفاده می کند که در آن می توان مبلغ توکن را در عرض چند ثانیه انجام داد.
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/04.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-04.png '钱包类别')
 
 **خرید با ارزهای فیات**
 
 کاربران می توانند TRX را با پول فیات در TokenPocket خریداری کنند. TRX پس از خرید مستقیماً به کیف پول ترون منتقل می شود.
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/05.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-05.png '钱包类别')
 
 ### توکن های دیگر در ترون
 
@@ -91,7 +91,7 @@ TRC‌-20 یک استاندارد قرارداد فنی در تریبون ترو
 #### TRON-USDT
 
 استیبل کوین TRC20-USDT وابسته به USD است که توسط Tether در شبکه ترون صادر شده است. صدور ، نگهداری و انتقال آن از طریق ترون از طریق قرارداد هوشمند و با یک روند کاملاً رایگان و شفاف ، هزینه انتقال صفر و تحویل فوری انجام می شود. همچنین امکان همکاری با پروتکل های مبتنی بر ترون و برنامه های غیرمتمرکز (DApps) را فراهم می کند در حالی که به کاربران امکان می دهد ارزهای پیوسته فیات را از طریق شبکه ترون معامله و مبادله کنند.
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/06.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-06.png '钱包类别')
 
          از لحاظ هزینه تراکنش ، TRC20-USDT می تواند معاملات را به صورت رایگان ارائه دهد وقتی یک حساب دارای انرژی کافی است. مطابق مبادلات عمده ، USDT مبتنی بر پروتکل Omni بیشترین هزینه برداشت را دارد که کاربران را برای یک معامله 4 تا 10 دلار هزینه می کند ، در حالی که ERC-20 USDT به معامله 1 تا 5 دلار نیاز دارد. در مقایسه ، TRC-20 به هیچ هزینه معامله ای نیاز ندارد.
 
@@ -103,17 +103,17 @@ TokenPocket کاملاً از TRON-USDT پشتیبانی می کند ، جایی
 
 برای اطلاعات بیشتر در مورد TRC-20 USDT وارد لینک شوید：https://tron.network/usdt。
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/07.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-07.png '钱包类别')
 
 #### TRON و Stablecoin USDJ
 
 USDJ واحد پول جدیدی است که از طریق قراردادهای هوشمند غیرمتمرکز در شبکه TRON تولید می شود. همه می توانند TRX را به عنوان وثیقه برای تولید USDJ قول دهند. USDJ مانند هر رمزنگاری دیگری که یک بار تولید می کند ، وارد گردش آزاد می شود. از طریق موقعیت های بدهی وثیقه (CDP) و مکانیسم های بازخورد مستقل به دلار آمریکا وابسته است.
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/08.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-08.png '钱包类别')
 
 JUST یک بستر اعطای وام غیر متمرکز است که دو سیستم توکن را تصویب می کند: USDJ و JST. USDJ ، با ارزش 1: 1 دلار آمریکا ، با وثیقه TRX در پورتال CDP از JUST قابل تولید است. JST برای پرداخت بهره ، نگهداری از پلتفرم ، حاکمیت شبکه از طریق رای گیری و سایر فعالیت ها در JUST استفاده می شود.
 
-![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/09.png '钱包类别')
+![钱包类别 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-09.png '钱包类别')
 توسط TokenPocket پشتیبانی می شود ، جایی که کاربران می توانند USDJ را با وثیقه TRX دریافت کنند.
 
 #### ترون و BTT
@@ -136,7 +136,7 @@ DLive بزرگترین انجمن رسانه ای جریان مستقیم در �
 
 کاربران می توانند وارد DLive شوند و از طریق TokenPocket جوایز Staking BTT را بدست آورند.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/10.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-10.png '节点钱包')
 
 در صفحه staking DLive BTT ، بر روی "Stake In" کلیک کنید تا BTT را ببندید و بر روی "Claim Reward" کلیک کنید تا سود سهام خود را دریافت کنید.
 
@@ -156,17 +156,17 @@ TVM (ترون) تقریباً کاملاً با EVM (اتریوم ) سازگار
 
 PoloniDex یک پلتفرم تجاری غیرمتمرکز مبتنی بر ترون تحت Poloniex است. Poloniex که در سال 2014 تاسیس شد ، یک پلتفرم جهانی تجارت دارایی دیجیتال پیشرو است که در سیشل ثبت شده است. از زمان تأسیس Poloniex ، خدمات ایمن و کارآمد آن توسط کاربران به رسمیت شناخته شده است ، و حجم معاملات واقعی آن از مدت ها قبل در بین 3 نفر برتر جهان قرار گرفته است. سیستم اصلی TrollBox به کاربران امکان می دهد تجربه تجاری جالب تری را کسب کنند. چشم انداز پولونیکس این است که سیستم اعتماد جهانی را بازسازی کند ، اجازه دهد معاملات به هر گوشه برسند ، ارزش را آزاد کنند و جریان را آزادانه حرکت دهند.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/11.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-11.png '节点钱包')
 
 （2）TronTrade
 Trontrade یک پلتفرم تجاری غیرمتمرکز مبتنی بر ترون است که در آن می توانید به راحتی رمزهای مختلف TRC10 و TRC20 ارزهای مختلف را بخرید و بفروشید. هدف TronTrade تبدیل شدن به امن ترین ، کاربرپسندترین و مطمئن ترین مبادله غیرمتمرکز برای توکن های TRC10 و TRC20 است.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/12.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-12.png '节点钱包')
 
 （3) Newdex-Tron: پیشرو در بورس غیر متمرکز جهان
 Newdex در 8 آگوست 2018 تاسیس شد و اولین بار در زنجیره عمومی EOS منتشر شد. در آگوست سال 2019 ، جدا از زنجیره عمومی EOS ، Newdex شروع به پشتیبانی از زنجیره عمومی ترون کرد. Newdex به ساخت یک پلت فرم معاملاتی چند زنجیره ای و متقابل اختصاص داده شده است.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/13.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-13.png '节点钱包')
 
 ## ویژگی های کیف پول ترون
 
@@ -214,7 +214,7 @@ Newdex در 8 آگوست 2018 تاسیس شد و اولین بار در زنجی
 
 برای انتقال ، کاربران باید در کیف پول مشاهده شده فعالیت کنند. تفاوت آن با انتقال عادی این است که کد QR هنگام صدور مجوز ظاهر می شود. سپس کد QR را با کیف پول سرد اسکن کرده و یک کد QR دیگر تولید می شود. کد QR را با کیف پول مشاهده کنید و کل مراحل را کامل کنید.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/14.png'节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-14.png '节点钱包')
 
 ### دریافت TRX
 
@@ -228,7 +228,7 @@ Newdex در 8 آگوست 2018 تاسیس شد و اولین بار در زنجی
 
 مشابه با نحوه استفاده کاربران با اسکن کد QR گیرنده ، می تواند نقل و انتقالات را انجام دهد ، آنها همچنین می توانند توکن ها را با اسکن کد QR خود ارسال کنند.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/15.png'节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-15.png '节点钱包')
 
 ### به گره های ترون رای دهی
 
@@ -240,7 +240,7 @@ Newdex در 8 آگوست 2018 تاسیس شد و اولین بار در زنجی
 رای دهنده: اعضای جامعه ترون که در رای گیری شرکت می کنند.
 نسبت توزیع پاداش: درصد پاداش از رأی دهندگان از کل جوایز بدست آمده توسط نمایندگان فوق العاده و شرکای فوق العاده.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/16.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-16.png '节点钱包')
 
 #### 1、قوانین رای در ترون
 
@@ -278,13 +278,13 @@ Vote through TRON wallets
 
 On the voting page in a TRON wallet, select the candidate to vote for and the vote amount. This is the easiest and quickest way to cast a vote.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/17.png'节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-17.png '节点钱包')
 
 Vote on the website
 
 Go to https://Tronscan.io/, select the node you want to vote for on the voting page and click on “vote”.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/18.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-18.png '节点钱包')
 
 ### Token Collection on TRON
 
@@ -292,13 +292,13 @@ The asset collection function supported by the underlying layer of TRON is a pie
 
 Users need to import all accounts into the wallet. If all accounts share the same password, the user only needs to grant the permission once; otherwise, the permission needs to be granted multiple times.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/19.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-19.png '节点钱包')
 
 ### DApp Whitelist for TRON
 
 The whitelist function provides great convenience for users to better take advantage of DApps. Normally, when exploring DApps on TRON, users need to enter the password every time they interact with smart contracts. The whitelist feature is to perform authorization without having to input the password for specific smart contract operations in the DApp. Users only need to enter the password once when the whitelist function is turned on.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/20.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-20.png '节点钱包')
 
 ### TRON Explorer
 
@@ -306,13 +306,13 @@ Blockchain explorer is the main window for looking up blockchain information, an
 
 Currently, the commonly used TRON explorer is TronSCAN. Tronscan.io is the first block explorer based on TRON. It not only includes some basic functions of a block explorer, such as search and query transactions, accounts, blocks, nodes, and smart contracts, as well as data gathering and queries on the chain, but also supports token creation. Meanwhile, TronSCAN also has a built-in web wallet and Bancor-based DEX, which enriches the application scenarios of TronSCAN.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/21.png: '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-21.png '节点钱包')
 
 ### TRON Wallet Order Adjustment
 
 Many users have multiple TRON accounts, and the wallet order adjustment function allows users to put the most frequently used wallets in the first places simply by dragging, so that they can switch wallets and manage their assets more conveniently.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/22.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-22.png '节点钱包')
 
 ### TRON Testnet
 
@@ -320,7 +320,7 @@ The TRON test network is relative to the mainnet. The TRON mainnet refers to a b
 
 The commonly used Tron testnet is TronLIN, which supports the Tron testnet and SUN Network. It is in stable operation and can be used to support project development and iterations, as well as early user participation.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/23.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-23.png '节点钱包')
 
 Nile testnet (http://nileex.io) is also a good option, whose code version is consistent with Tron mainnet.
 
@@ -330,7 +330,7 @@ Tron’s official channels include Twitter @Tronfoundation and @justinsunTron.
 
 Users can also get Tron-related information from Tron wallets, like TokenPocket. TokenPocket provides a one-stop reading experience for users, including the latest updates, flash news and articles about Tron.
 
-![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/24.png '节点钱包')
+![节点钱包 示意图](https://gz.bcebos.com/tp-upload/newBanner/en-24.png '节点钱包')
 
 ### Explore TRON DApps
 
